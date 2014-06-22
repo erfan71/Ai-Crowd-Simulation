@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Unity\Projects\RunawayPeddler 2.5\Assets\Script\BackManager.cs">
+    <Files>
+      <File FileName="..\..\..\Unity\Projects\RunawayPeddler 2.5\Assets\Script\GameOverManager.cs" Line="21" Column="1" />
+      <File FileName="..\..\..\Unity\Projects\RunawayPeddler 2.5\Assets\Script\Pack.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\Unity\Projects\RunawayPeddler 2.5\Assets\Script\Player.cs" Line="382" Column="19" />
+      <File FileName="..\..\..\Unity\Projects\RunawayPeddler 2.5\Assets\Script\FxEffect.cs" Line="58" Column="23" />
+      <File FileName="..\..\..\Unity\Projects\RunawayPeddler 2.5\Assets\Script\MyPack.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\Unity\Projects\RunawayPeddler 2.5\Assets\Script\ManeDeactiver.cs" Line="25" Column="3" />
+      <File FileName="..\..\..\Unity\Projects\RunawayPeddler 2.5\Assets\Script\BackManager.cs" Line="70" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
